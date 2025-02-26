@@ -1,1 +1,1 @@
-# git-checkpoint
+# git_checkpoint
